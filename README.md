@@ -1,4 +1,33 @@
 # Sales-Forecasting
 Building a regression model for prediction on Weekend/Sales Offers Dataset
 
+# Overview
 
+1) In this project , we are building a model to predict the purchase amount of customer against various products which will help store managers to create personalized offer for customers against different products.
+2) We will follow all the steps of Machine Learning Life Cycle from Data collection to Model Evaluation
+
+# Problem Statement
+
+A retail company wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. They have shared purchase summary of various customers for selected high volume products from last month. The data set also contains customer demographics (age, gender, marital status, city_type, stay_in_current_city), product details (product_id and product category) and  Purchase from last month.
+
+Now, they want to build a model to predict the overall purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
+
+# Dataset Description
+
+1) User_ID	- ID's of customers who visit store
+2) Product_ID	- ID's of products available in store
+3) Gender	- Sex of Customer
+4) Age -  Age in bins
+5) Occupation	- Occupation (Masked)
+6) City_Category - Category of the City (A,B,C)
+7) Stay_In_Current_City_Years -	Number of years stay in current city
+8) Marital_Status - 	Marital Status
+9) Product_Category_1 - 	Product Category (Masked)
+10) Product_Category_2	- Product may belongs to other category also (Masked)
+11) Product_Category_3	- Product may belongs to other category also (Masked)
+12) Purchase	- Purchase Amount (Target Variable)
+
+# Conclusion
+
+1) In this project, we tried to build a model using various algorithms such as Linear regression, KNN regression, Decision tree regression, Random forest and XGB regressor to get the best possible prediction.
+2) The hyperparameter tuned XGB regressor gives us the best rmse value and r2 score for this problem.
