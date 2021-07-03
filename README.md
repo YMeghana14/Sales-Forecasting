@@ -29,5 +29,5 @@ Now, they want to build a model to predict the overall purchase amount of custom
 
 # Conclusion
 
-1) In this project, we tried to build a model using various algorithms such as Linear regression, KNN regression, Decision tree regression, Random forest and XGB regressor to get the best possible prediction.
+1) In this project, we tried to build a model using various algorithms such as Linear regression, Decision tree regression and XGB regressor to get the best possible prediction.
 2) The hyperparameter tuned XGB regressor gives us the best rmse value and r2 score for this problem.
