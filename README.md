@@ -33,11 +33,43 @@ Now, they want to build a model to predict the overall purchase amount of custom
   1. Python 3.6-3.8
 
 # Frameworks and Libraries
-Pandas
-Sklearn
-Matplotlib
-Numpy
-Seaborn
+1) Pandas
+2) Sklearn
+3) Matplotlib
+4) Numpy
+5) Seaborn
+
+<h2>⚙️ Setup</h2>
+  
+  Installing Pandas
+  
+    $pip install pandas
+  
+  Installing Sklearn
+  
+    $pip install -U scikit-learn
+  
+  Installing Matplotlib
+    
+    $pip install matplotlib
+  
+  Installing Numpy
+     
+    $pip install numpy
+ 
+  Installing Seaborn
+  
+    $pip install seaborn
+ 
+
+  <h2>📈 Technique used to solve the problem</h2>
+  
+  >   Machine Learning
+  
+  *   Linear Regression
+  *   Decision Trees
+  *   XG Boost
+
 
 # Conclusion
 
