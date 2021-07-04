@@ -27,6 +27,18 @@ Now, they want to build a model to predict the overall purchase amount of custom
 11) Product_Category_3	- Product may belongs to other category also (Masked)
 12) Purchase	- Purchase Amount (Target Variable)
 
+# 🛠️ Requirements
+
+# Programming Language
+  1. Python 3.6-3.8
+
+# Frameworks and Libraries
+Pandas
+Sklearn
+Matplotlib
+Numpy
+Seaborn
+
 # Conclusion
 
 1) In this project, we tried to build a model using various algorithms such as Linear regression, Decision tree regression and XGB regressor to get the best possible prediction.
