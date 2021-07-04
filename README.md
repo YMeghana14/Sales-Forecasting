@@ -38,6 +38,7 @@ Now, they want to build a model to predict the overall purchase amount of custom
 3) Matplotlib
 4) Numpy
 5) Seaborn
+6) Flask
 
 <h2>⚙️ Setup</h2>
   
@@ -60,6 +61,10 @@ Now, they want to build a model to predict the overall purchase amount of custom
   Installing Seaborn
   
     $pip install seaborn
+    
+ Installing Flask
+  
+    $pip install flask
  
 
   <h2>📈 Technique used to solve the problem</h2>
