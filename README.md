@@ -73,6 +73,8 @@ Now, they want to build a model to predict the overall purchase amount of custom
 # Deployment
 
  <img src="https://github.com/YMeghana14/Sales-Forecasting/blob/804255edea5ca463adff0cfb36ada602ef9749a4/Image%20-%201.png">
+ 
+  <img src="https://github.com/YMeghana14/Sales-Forecasting/blob/0280bcde47b27610ce55971620ef30ba08fb04cf/Image%202.png">
 
 
 # Conclusion
